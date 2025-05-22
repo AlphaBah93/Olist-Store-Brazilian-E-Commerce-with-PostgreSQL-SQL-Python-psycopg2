@@ -1,4 +1,5 @@
 # Olist-Store-Brazilian-E-Commerce-with-PostgreSQL-SQL-Python-psycopg2
+**Dataset**: [Olist Store - Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 ## 📘 Introduction
 
 This project demonstrates how to use **Python**, the **`psycopg2` API**, and **SQL** to interact with a **PostgreSQL** database for loading, storing, and analyzing data from the Brazilian e-commerce public dataset "Olist", downloaded from Kaggle.
@@ -78,6 +79,4 @@ Whether you're learning about **ETL pipelines**, **SQL joins**, or how to work w
 ---
 
 ## 📚 Credits
-
-- **Dataset**: [Olist Store - Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Author**: Alpha Amadou BAH  -  amadalpha93@gmail.com
